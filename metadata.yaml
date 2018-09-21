@@ -1,5 +1,8 @@
 _repo: The-Southern-Literary-Messenger-Vol-I-No-4-December-1834_53753
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Various
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '46407'
     url: http://www.gutenberg.org/2009/agents/46407
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53753#The-Southern-Literary-Messenger-Vol-I-No-4-December-1834
 gutenberg_issued: '2016-12-17'
 gutenberg_type: Text
 identifiers:
